@@ -1,0 +1,148 @@
+<resources>
+
+    <!--Header text for the list of toppings [CHAR LIMIT=20]-->
+    <string name="app_name">Ship Quiz</string>
+
+    <!--Welcome message before start the quiz [CHAR LIMIT=20]-->
+    <string name="welcome_message">Fill the quiz to test you knowledge!</string>
+
+    <!--Question # 1-->
+
+    <string name="question_header_1">Q # 1</string>
+
+    <string name="question_1">Which nation built Drakkar ships?</string>
+
+    <!--Hint for question # 1-->
+
+    <string name="hint_question_1">Nation</string>
+
+    <!--Solution(s) for question # 1-->
+
+    <string name="question_1_solution">Vikings</string>
+
+    <!--Question # 2-->
+
+    <string name="question_header_2">Q # 2</string>
+
+    <string name="question_2">Which ports are in the list of top10 ports of the word?</string>
+
+    <!--Option(s) for question # 2-->
+
+    <string name="question_2_option_a">Shenzen, China</string>
+    <string name="question_2_option_b">London, UK</string>
+    <string name="question_2_option_c">Shanghai, China</string>
+    <string name="question_2_option_d">Dubai, UAE</string>
+    <string name="question_2_option_e">Bremen, Germany</string>
+    <string name="question_2_option_f">Rotterdam, Netherlands</string>
+
+    <!--Question # 3-->
+
+    <string name="question_header_3">Q # 3</string>
+
+    <string name="question_3">A _____ is a ship that is filled with explosives, deliberately set on fire and steered into an enemy fleet.</string>
+
+    <!--Option(s) for question # 3-->
+
+    <string name="question_3_option_a">Burning Galley</string>
+    <string name="question_3_option_b">Fireship</string>
+    <string name="question_3_option_c">Ironcald</string>
+
+    <!--Question # 4-->
+
+    <string name="question_header_4">Q # 4</string>
+
+    <string name="question_4">What was the nickname of famous pirate Edward Teach(English, from 1680 to 1718)?</string>
+
+    <!--Hint for question # 4-->
+
+    <string name="hint_question_4">Nickname</string>
+
+    <!--Solution(s) for question # 4-->
+
+    <string name="question_4_solution">"Blackbeard"</string>
+
+    <!--Question # 5-->
+
+    <string name="question_header_5">Q # 5</string>
+
+    <string name="question_5">What could these marks are used for?</string>
+
+    <!--Option(s) for question # 5-->
+
+    <string name="question_5_option_a">Determine water level</string>
+    <string name="question_5_option_b">Measuring waving</string>
+    <string name="question_5_option_c">Prevent overloading</string>
+    <string name="question_5_option_d">Called waterline</string>
+    <string name="question_5_option_e">indicate the size of the ship</string>
+    <string name="question_5_option_f">it has nothing to do with buoyancy</string>
+
+    <!--Question # 6-->
+
+    <string name="question_header_6">Q # 6</string>
+
+    <string name="question_6">What device prevent the craft from drifting due to wind or (ocean)current.</string>
+
+    <!--Hint for question # 6-->
+
+    <string name="hint_question_6">Device</string>
+
+    <!--Solution(s) for question # 6-->
+
+    <string name="question_6_solution">Anchor</string>
+
+    <!--Question # 7-->
+
+    <string name="question_header_7">Q # 7</string>
+
+    <string name="question_7">How do you count kn(knot) the unit of speed?</string>
+
+    <!--Option(s) for question # 7-->
+
+    <string name="question_7_option_a">knot = one Roman mile (1,481 m) / hour</string>
+    <string name="question_7_option_b">knot = one nautical mile (1,852 km) / hour</string>
+    <string name="question_7_option_c">knot = one Chinese mile or Li unit (500 m) / hour</string>
+
+    <!--Question # 8-->
+
+    <string name="question_header_8">Q # 8</string>
+
+    <string name="question_8">How big in tonnage the biggest cruise vessel of the word, Harmony of The Seas (Launched in 2016)?</string>
+
+    <!--Option(s) for question # 8-->
+
+    <string name="question_8_option_a">60</string>
+    <string name="question_8_option_b">227</string>
+    <string name="question_8_option_c">1024</string>
+
+    <!--Question # 9-->
+
+    <string name="question_header_9">Q # 9</string>
+
+    <string name="question_9">What was Cog vessel used for in Europe in between the 13th and 15th centuries?</string>
+
+    <!--Hint for question # 9-->
+
+    <string name="hint_question_9">Vessel</string>
+
+    <!--Solution(s) for question # 9-->
+
+    <string name="question_9_solution">Trading</string>
+
+    <!--Question # 10-->
+
+    <string name="question_header_10">Q # 10</string>
+
+    <string name="question_10">The largest warship have ever built for which army?</string>
+
+    <!--Option(s) for question # 10-->
+
+    <string name="question_10_option_a">The US Air Force</string>
+    <string name="question_10_option_b">The UK Royal Navy</string>
+    <string name="question_10_option_c">The Russian Army</string>
+
+    <string name="finish">submit</string>
+
+    <string name="clear">Reset</string>
+
+
+</resources>
